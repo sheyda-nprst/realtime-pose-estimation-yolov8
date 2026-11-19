@@ -31,7 +31,7 @@ To retrain the detector, open the notebook in Google Colab and set `ROBOFLOW_API
 ## Credits
 Course project on computational intelligence at Amirkabir University of Technology (winter 2024), supervised by Dr. Abdollahi.
 
-**Team:** Abtin Hassannejad, Sana Ranjbar, Amirhossein Gheysari and Sheyda Niaparast.
+**Team:** Abtin Hasannezhad, Sana Ranjbar, Amirhossein Gheysari and Sheyda Niaparast.
 
 Dataset: [Roboflow "human-persons"](https://universe.roboflow.com/saad-salman-xwffp/human-persons-kqfbt).
 
